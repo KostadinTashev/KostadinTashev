@@ -1,23 +1,20 @@
-<h1 align="center">Hi 👋, I'm Kostadin Tashev</h1>
-<h3 align="center">I am a student of Computer and Software Engineering in TU-Sofia.</h3>
+### Hi there 👋, my name is Kostadin
+#### 💡 I'm interested in programming and software engineering.
+![💡 I'm interested in programming and software engineering.](https://www.simplilearn.com/best-programming-languages-start-learning-today-article)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kostadintashev&label=Profile%20views&color=0e75b6&style=flat" alt="kostadintashev" /> </p>
+I am 20 years old and I am a student of Computer and Software Engineering in TU-Sofia.
 
-- 🌱 I’m currently learning **Computer and Software Engineering in TU-Sofia and Python on the Python Path at Softuni.**
+Skills: Python
 
-- 📫 How to reach me **k.tashev02@gmail.com**
+- 🌱 I’m currently learning Computer and Software Engineering in TU-Sofia and Python on the Python Path at Softuni. 
+- 👯 I’m looking to collaborate on with people with the same interests 
+- 📫 How to reach me: k.tashev02@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/Kostadin Tashev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kostadin Tashev" height="30" width="40" /></a>
-<a href="https://instagram.com/koceto.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koceto.02" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KostadinTashev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Kostadin Tashev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/koceto.02/)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kostadintashev&show_icons=true&locale=en&layout=compact" alt="kostadintashev" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KostadinTashev)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kostadintashev&show_icons=true&locale=en" alt="kostadintashev" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KostadinTashev&show_icons=true&count_private=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kostadintashev&" alt="kostadintashev" /></p>
+![Profile views](https://gpvc.arturio.dev/KostadinTashev)  
