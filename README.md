@@ -44,7 +44,7 @@
 ## 📫 How to reach me
 
 - 📧 Email: **kostadin.tashev2002@gmail.com**  
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kostadin-tashev-b4715a304)  
+- 💼 LinkedIn:  **https://www.linkedin.com/in/kostadin-tashev-b4715a304**  
 
 ---
 ✨ _Thanks for visiting my profile! Feel free to check out my projects and connect with me._ ✨
