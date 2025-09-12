@@ -25,7 +25,7 @@
 
 ## 📂 Projects
 
-🔹 [**FitnessApp**](https://github.com/yourusername/FitnessApp)    
+🔹 [**FitnessApp**](https://github.com/KostadinTashev/FitnessApp)    
 
 ---
 
