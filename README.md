@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Kostadin Tashev  
 
 💻 **Graduate in Computer and Software Engineering**  
-🎓 **Currently pursuing a Master's degree in Cybersecurity**
+🎓 **Currently pursuing a Master's degree in Cybersecurity**  
 🌐 Passionate about **web development**  
 📚 Always learning and exploring **Python, Django, Databases and modern web tools**  
 💡 Interested in building apps that connect technology with real-world problems  
@@ -32,13 +32,15 @@
 
 ## 📈 GitHub Stats
 
-![Kostadin's GitHub stats](https://github-readme-stats-eight.vercel.app/api?username=KostadinTashev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=KostadinTashev&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KostadinTashev&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KostadinTashev&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=KostadinTashev&theme=onedark&margin-w=15&margin-h=15)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=KostadinTashev&theme=onedark&no-frame=true)
 
 ---
 
