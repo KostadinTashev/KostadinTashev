@@ -32,13 +32,12 @@
 
 ## 📈 GitHub Stats
 
-![Kostadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KostadinTashev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KostadinTashev&layout=compact&theme=radical)
+![Kostadin's GitHub stats](https://github-readme-stats-eight.vercel.app/api?username=KostadinTashev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=KostadinTashev&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=KostadinTashev&theme=onedark&margin-w=15&margin-h=15)
 
 ---
