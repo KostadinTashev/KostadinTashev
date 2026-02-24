@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Kostadin Tashev  
 
 💻 **Graduate in Computer and Software Engineering**  
+🎓 **Currently pursuing a Master's degree in Cybersecurity**
 🌐 Passionate about **web development**  
 📚 Always learning and exploring **Python, Django, Databases and modern web tools**  
 💡 Interested in building apps that connect technology with real-world problems  
